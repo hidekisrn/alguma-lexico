@@ -12,7 +12,7 @@ import org.antlr.v4.runtime.misc.ParseCancellationException;
 public class Principal {
 
     public static void main(String[] args) throws FileNotFoundException {
-        PrintStream out = new PrintStream(new FileOutputStream("/home/hidekisrn/output.txt"));
+        PrintStream out = new PrintStream(new FileOutputStream("output.txt"));
         System.setOut(out);
         try {
             // args[0] é o primeiro argumento da linha de comando
