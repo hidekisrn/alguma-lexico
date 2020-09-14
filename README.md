@@ -1,5 +1,11 @@
 <h1> Analisador Léxico Linguagem LA </h1>
-  
+
+<h2> Membros do Grupo </h2>
+<ol>
+  <li> Daniel Lamounier Heringer, RA: 743524 </li>
+  <li> João Gabriel Damasceno, RA: 726545 </li>
+  <li> Sergio Ricardo Hideki Nisikava, RA: 551848 </li>
+</ol>
 <h2> Dependencias </h2>
 
 <ol>
